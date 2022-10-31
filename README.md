@@ -1,6 +1,6 @@
 # quizapp
 
-A new Flutter project.
+This is my first flutter project.
 
 ## Getting Started
 
